@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ali-nadhum-429a36282?_l=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nadhum-429a36282?_l=en_us" height="30" width="40" /></a>
 <a href="https://fb.com/da321qxp?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="da321qxp?mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/@alinadhum_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alinadhum_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@khtwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khtwa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@khtwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khtwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
