@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali nadhum</h1>
+<h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">Web developer from iraq</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
