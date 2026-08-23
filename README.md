@@ -1,78 +1,66 @@
 <div align="center">
 
-# 👋 Hi, I'm Ali Nadhum
-
-### Software Engineer • Backend Developer • Full-Stack Developer
-
-Building reliable, scalable and maintainable software systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ali+Nadhum+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Backend+Developer+%E2%9A%A1;Building+things+with+Node.js+%F0%9F%9A%80" />
 
 <br/>
 
-<a href="https://github.com/ali98nadhum">
-  <img src="https://img.shields.io/github/followers/ali98nadhum?label=Followers&style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/ali98nadhum">
-  <img src="https://img.shields.io/github/stars/ali98nadhum?label=Stars&style=for-the-badge&logo=github" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=ali98nadhum&style=for-the-badge&color=58A6FF" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Software Engineer** from Iraq 🇮🇶 who enjoys building backend systems, APIs, and modern web applications.
+> Software Engineer from Iraq 🇮🇶 focused on **Backend & Full-Stack Development**.
 
-- 💻 Specialized in **Backend & Full-Stack Development**
-- ⚙️ Building REST APIs and scalable server-side applications
-- 🗄️ Working with relational and NoSQL databases
-- 🔐 Interested in authentication, security and system architecture
-- 🚀 Always learning and improving my engineering skills
-- 🧠 I enjoy turning ideas into real-world software
+⚡ Building scalable REST APIs  
+🧠 Interested in Software Architecture & System Design  
+🚀 Always learning and building  
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ali98nadhum&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,redis,mongodb,react,nextjs,js,git,github,docker" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali98nadhum&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali98nadhum&theme=github_dark" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali98nadhum&theme=github_dark" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali98nadhum&theme=github_dark&utcOffset=3" height="170"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ali-nadhum-429a36282">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="https://instagram.com/alinadhum_">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://t.me/ali9nadhum">
+<img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+</a>
 
 </div>
 
@@ -80,62 +68,6 @@ I'm a **Software Engineer** from Iraq 🇮🇶 who enjoys building backend syste
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ali98nadhum&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🎬 Qi TV Backend
-
-Backend system for a modern streaming platform.
-
-**Node.js • Express • Prisma • PostgreSQL • Redis**
-
----
-
-### 🏫 My School API
-
-A backend system for school management and educational services.
-
-**Node.js • Express • Prisma • PostgreSQL • Redis**
-
----
-
-### 🎮 GameCleaner
-
-A Windows desktop utility designed to safely detect and remove leftover game files after uninstallation.
-
-**Node.js • Electron**
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ali-nadhum-429a36282">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/alinadhum_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/da321qxp">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
