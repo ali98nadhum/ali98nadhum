@@ -50,11 +50,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali98nadhum&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali98nadhum&theme=github_dark" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali98nadhum&theme=github_dark" height="170"/>
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
