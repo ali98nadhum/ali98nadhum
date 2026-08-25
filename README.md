@@ -46,6 +46,16 @@
 
 ---
 
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali98nadhum&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
